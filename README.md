@@ -23,7 +23,7 @@ website has gone though to publish it and make it fully functional in terms of d
 9. Medium Fidelity Prototype
 10. High Fidelity Prototype
 
-The link to final High Fidelity project :
+The link to final High Fidelity project : https://www.figma.com/proto/KTffp9UKPdNlxHnFX9gf8F/Hi_Fi-final?node-id=25%3A720&starting-point-node-id=74%3A10&scaling=scale-down 
 
 
 
